@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me: **tarik2454@gmail.com**
+- 📫 Telegram **https://t.me/tarik_2454** / Email **tarik2454@gmail.com**
 - ⚡ Fun fact: **I love what I do**
 
 ### My stack
@@ -26,7 +26,7 @@
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<!-- <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /> -->
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
 <!-- <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" /> -->
 
