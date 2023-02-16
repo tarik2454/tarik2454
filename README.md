@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **a lot of different stuff**
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 Telegram **https://t.me/tarik_2454** / Email **tarik2454@gmail.com**
+- 📫 How to reach me: **[telegram](https://t.me/tarik_2454)** / **tarik2454@gmail.com**
 - ⚡ Fun fact: **I love what I do**
 
 ### My stack
