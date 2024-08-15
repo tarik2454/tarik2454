@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on **a commercial and volunteer project**
 - 🌱 I’m currently learning **RTK Query, PostgreSQL**
 - 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me: **<a href="https://t.me/tarik_2454" target="_blank">Telegram</a>** **/** **<a href="tarik2454@gmail.com" target="_blank">Email</a>**
+- 📫 How to reach me:
+  **<a href="https://t.me/tarik_2454" target="_blank">Telegram</a>** **/**
+  **<a href="tarik2454@gmail.com" target="_blank">Email</a>**
 - ⚡ Fun fact: **I love what I do**
 
 ### My stack
@@ -11,6 +13,7 @@
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Next.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <!-- <img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> -->
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
