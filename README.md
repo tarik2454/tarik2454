@@ -1,6 +1,6 @@
 ### Hi there, I'm Taras 👋
 
-- 🔭 I’m currently working on **a commercial and volunteer project**
+- 🔭 I’m currently working on **a commercial and volunteer projects**
 - 🌱 I’m currently learning **RTK Query, PostgreSQL**
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me:
