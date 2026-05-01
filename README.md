@@ -1,7 +1,7 @@
 ### Hi there, I'm Taras 👋
 
 - 🔭 I’m currently working on **a commercial and volunteer projects**
-- 🌱 I’m currently learning **RTK Query, PostgreSQL**
+- 🌱 I’m currently learning **RTK Query**
 - 🤔 I’m looking for help with **finding more time in a single day**
 - 📫 How to reach me:
   **<a href="https://t.me/tarik_2454" target="_blank">Telegram</a>** **/**
